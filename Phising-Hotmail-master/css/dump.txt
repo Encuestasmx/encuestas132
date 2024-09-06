@@ -1,0 +1,8 @@
+Array
+(
+    [agenti] => New Hotmail
+    [redir] => https://mail.live.com/default.aspx
+    [logn] => salut@salut.com
+    [passd] => ceciestuntest
+    [button] => 
+)
